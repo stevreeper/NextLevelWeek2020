@@ -3,5 +3,7 @@
 /.pnp
 .pnp.js
 
+uploads/*
+
 # misc
 .env
